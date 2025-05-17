@@ -56,7 +56,6 @@ This project requires the following Python libraries:
 
 ## Contributing
 
-Contributions to this project are welcome. Feel free to submit bug reports, feature requests, or pull requests.
+Contributions to this project are welcome. Feel free to submit bug reports as this code was written completely by Ai. Hell, even get Ai to fix your problem.
+You know, for the funsies
 
-
-[Your License Here - e.g., MIT License]
